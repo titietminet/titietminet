@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am a developer currently studying, I specialize in java and python.
+
+I also have skills in web development,
+here is a site that I made:
+vivendesign.com
 <!--
 **titietminet/titietminet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
